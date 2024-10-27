@@ -6,7 +6,7 @@ const Home = () => (
     <header>
       <ul>
         <li>
-          <a href="">
+          <a href="#AboutMe">
             <div>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -23,7 +23,7 @@ const Home = () => (
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#Experiences">
             <div>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -40,7 +40,7 @@ const Home = () => (
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#Conhecimento">
             <div>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -57,7 +57,7 @@ const Home = () => (
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#Projects">
             <div>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -74,7 +74,7 @@ const Home = () => (
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#Contato">
             <div>
               <svg
                 xmlns="http://www.w3.org/2000/svg"

@@ -3,7 +3,7 @@ import imgAboutMe from '../../assets/Img/imgAboutMe.png'
 import Foto from '../../assets/Img/Foto1.jpg'
 
 const AboutMe = () => (
-  <ContainerAboutMe>
+  <ContainerAboutMe id="AboutMe">
     <div>
       <h1>Olá, Meu nome é</h1>
       <div>

@@ -26,5 +26,6 @@ export const GlobalStyles = createGlobalStyle`
 
   body {
     background-color: ${Colors.backgroundColor};
+    overflow-x: hidden;
   }
 `
