@@ -113,7 +113,7 @@ const Footer = () => (
           href="https://www.linkedin.com/in/isaaclima451/"
           rel="noreferrer"
         >
-          Icaac Lima
+          Isaac Lima
         </a>
       </p>
       <p> | </p>

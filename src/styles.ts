@@ -24,6 +24,10 @@ export const GlobalStyles = createGlobalStyle`
     list-style: none;
   }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
     background-color: ${Colors.backgroundColor};
     overflow-x: hidden;
